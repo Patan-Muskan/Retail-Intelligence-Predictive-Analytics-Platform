@@ -10,7 +10,7 @@ A full-stack retail analytics dashboard built on AWS, providing real-time KPI mo
 
 | Dashboard Overview | Analytics Overview |
 |---|---|
-| ![Overview](screenshots/overview.png) | ![Analytics](screenshots/analytics.png) |
+| ![Overview]("C:\Users\muska\OneDrive\Pictures\Screenshots\Screenshot 2026-05-26 151134.png") | ![Analytics](screenshots/analytics.png) |
 
 | Product Insights | ML & Forecasting |
 |---|---|
@@ -27,7 +27,7 @@ A full-stack retail analytics dashboard built on AWS, providing real-time KPI mo
 
 ### 📦 Products
 - Full product catalogue with category, rating, and pricing data
-- Top Rated Products ranked by customer satisfaction score
+- Top-Rated Products ranked by customer satisfaction score
 
 ### 🗃️ Inventory
 - Live inventory tracking across all product categories
@@ -107,9 +107,6 @@ A full-stack retail analytics dashboard built on AWS, providing real-time KPI mo
 | Query Engine | AWS Athena |
 | ML Model | Python (scikit-learn / similar) |
 
-> ⚠️ *Update the Frontend/Charts/ML rows with your actual libraries.*
-
----
 
 ## 🗺️ Navigation Pages
 
@@ -228,5 +225,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+  - GitHub: [@Patan-Muskan](https://github.com/Patan-Muskan)
+- LinkedIn: [Patan Muskan](https://linkedin.com/in/patan-muskan-934117333/)
