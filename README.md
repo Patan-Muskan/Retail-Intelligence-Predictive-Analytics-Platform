@@ -70,26 +70,9 @@ Brand features
 Inventory-related attributes
 Model Performance
 Mean Absolute Error (MAE): 82.19
-Project Structure
-Retail-Intelligence-Platform/
-│
-├── dashboards/
-│   └── app.py
-│
-├── data/
-│   └── historical/
-│       └── live_products_history.csv
-│
-├── ml/
-│   └── price_prediction.py
-│
-├── scripts/
-│   └── ingestion/
-│       └── live_product_ingestion.py
-│
-├── notebooks/
 
-Mean Absolute Error (MAE): 82.19
+
+
 AWS Integration
 
 Integrated AWS cloud services to simulate enterprise-scale analytics workflows:
