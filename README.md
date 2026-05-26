@@ -10,11 +10,15 @@ A full-stack retail analytics dashboard built on AWS, providing real-time KPI mo
 
 | Dashboard Overview | Analytics Overview |
 |---|---|
-| ![Overview]("C:\Users\muska\OneDrive\Pictures\Screenshots\Screenshot 2026-05-26 151134.png") | ![Analytics](screenshots/analytics.png) |
+| ![Overview](<img width="1838" height="919" alt="Screenshot 2026-05-26 151134" src="https://github.com/user-attachments/assets/0a7e2830-fb8e-4fe3-9040-1d4dcfc35ed0" />
+) | ![Analytics](<img width="1464" height="837" alt="Screenshot 2026-05-26 151211" src="https://github.com/user-attachments/assets/b093d824-2d6a-4696-9ecb-a44398419291" />
+) |
 
 | Product Insights | ML & Forecasting |
 |---|---|
-| ![Products](screenshots/products.png) | ![ML](screenshots/ml.png) |
+| ![Products](<img width="1432" height="600" alt="Screenshot 2026-05-26 151233" src="https://github.com/user-attachments/assets/ce20f2a5-b1b0-48d0-a1da-7a004be23ec8" />
+) | ![ML](<img width="1465" height="841" alt="Screenshot 2026-05-26 151254" src="https://github.com/user-attachments/assets/e45f4f3c-5e58-46ad-adfe-53637a485a69" />
+) |
 
 ---
 
